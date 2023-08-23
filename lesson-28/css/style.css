@@ -1,0 +1,26 @@
+.pop {
+    color: rgb(0, 0, 0);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    
+
+}
+.joj{
+    text-decoration:  line-through;
+}
+.tot{
+    text-transform: uppercase;
+    text-align: center;
+}
+.bob{
+    color: rgb(67, 22, 108);
+    text-decoration: overline wavy;
+    text-shadow: 1px 1px #2a013034;
+    word-spacing: 30px;
+}
+.dod{
+    text-decoration: underline double ;
+    letter-spacing: 5px;
+}
